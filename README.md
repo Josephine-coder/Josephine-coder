@@ -7,4 +7,6 @@
 - 🙀⚡ Fun fact: The very first programmer in the world was a woman named Ada Lovelace.
 
 Languages and Tools 🛠
-![image](https://github.com/Josephine-coder/Josephine-coder/assets/120769824/6bb3c5b3-2977-4b48-a073-0cebf29e891c)
+![image](https://github.com/Josephine-coder/Josephine-coder/assets/120769824/344e33e2-122d-4ea1-8b07-b47bec936801)
+https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
+
