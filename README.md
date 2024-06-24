@@ -1,3 +1,7 @@
+
+👩‍💻About Me!!
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on something unique and awesome to showcase my skills
@@ -6,7 +10,6 @@
 
 - 🙀⚡ Fun fact: The very first programmer in the world was a woman named Ada Lovelace.
 
-Languages and Tools 🛠
-![image](https://github.com/Josephine-coder/Josephine-coder/assets/120769824/344e33e2-122d-4ea1-8b07-b47bec936801)
-https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
+
+
 
